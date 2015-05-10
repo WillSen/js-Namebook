@@ -1,0 +1,15 @@
+{
+  "name": "kittenbook",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

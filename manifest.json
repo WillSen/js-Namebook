@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "kittenbook",
-  "description": "Replace photos on Facebook with kittens",
+  "name": "NameBook",
+  "description": "Replace Facebook with your name",
   "version": "0.0.1",
   "content_scripts": [
     {

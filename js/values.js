@@ -1,1 +1,1 @@
-var projectName = "kittenBook";
+var projectName = 'kittenBook';
